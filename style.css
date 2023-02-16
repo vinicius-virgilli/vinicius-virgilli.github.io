@@ -1,0 +1,89 @@
+
+body {
+    background-color: rgb(5, 12, 61);
+    color: white;
+    text-align: center;
+    margin: 50px;
+}
+
+.header-container div {
+    display: inline-block
+}
+
+.header-container ul li{
+    display: inline;
+    padding: 10px;
+}
+
+.index {
+    margin-left: 100px;
+}
+
+.main-container img {
+    border-radius: 100px;
+    margin-right: 60px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.image {
+    float: right;
+    padding: 1px black;
+}
+
+.main-container {
+    border-radius: 100px;
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+}
+
+.main-container p {
+    text-shadow: black 0.01em 0.01em;
+    color: black;
+    text-align: justify;
+    border-radius: 100px;
+    margin-right: 60px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+    margin-top: 130px;
+}
+
+.name p {
+    text-align: center;
+}
+
+.habilitsList div {
+    color: black;
+    text-align: left;
+    margin-right: 60px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+    margin-top: 0px;
+}
+
+.contactsubContainer div {
+    display: inline-block;
+    width: 50px;
+    
+}
+
+.contactsubContainer {
+    text-align: center;
+    margin-right: 205px;
+}
+.contact div {
+    width: 50px;
+    display: inline-block;
+}
+
+.logo {
+    width: 50px;
+}
+
+.conect {
+    color: black;
+}
+
+
