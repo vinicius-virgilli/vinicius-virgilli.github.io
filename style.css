@@ -39,13 +39,14 @@ main {
 }
 
 .main-container {
+  padding-top: 40px;
   border-radius: 100px;
   background-color: white;
   display: inline-block;
 }
 
 .main-container p {
-    text-align: left;
+  text-align: left;
   text-shadow: black 0.01em 0.01em;
   color: black;
   border-radius: 100px;
