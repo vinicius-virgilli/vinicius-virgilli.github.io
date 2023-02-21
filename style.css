@@ -6,6 +6,7 @@ body {
 }
 
 main {
+    font-size: large;
     margin-top: 0;
 }
 
@@ -18,8 +19,12 @@ main {
   padding: 10px;
 }
 
+.description a {
+    text-decoration: none;
+}
+
 .description a:hover {
-    color: yellow;
+    color: green;
 }
 
 .index {
@@ -106,7 +111,7 @@ footer section {
 
 .assignment a {
     color: white;
-    
+    text-decoration: none;
 }
 
 .assignment a:hover {
