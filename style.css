@@ -5,6 +5,10 @@ body {
   margin: 50px;
 }
 
+main {
+    margin-top: 0;
+}
+
 .header-container div {
   display: inline-block;
 }
@@ -12,6 +16,10 @@ body {
 .header-container ul li {
   display: inline;
   padding: 10px;
+}
+
+.description a:hover {
+    color: yellow;
 }
 
 .index {
@@ -33,19 +41,18 @@ body {
 .main-container {
   border-radius: 100px;
   background-color: white;
-  text-align: center;
   display: inline-block;
 }
 
 .main-container p {
+    text-align: left;
   text-shadow: black 0.01em 0.01em;
   color: black;
-
   border-radius: 100px;
   margin-right: 60px;
   margin-left: 100px;
   margin-bottom: 40px;
-  margin-top: 130px;
+
 }
 
 .name p {
@@ -62,13 +69,15 @@ body {
 }
 
 footer {
+  padding-top: 60px;
   margin: auto;
-  color: black;
   bottom: 0;
+  padding-bottom: 0%;
 }
 
 footer img {
   width: 40px;
+  height: 40px;
   vertical-align: middle;
 }
 
@@ -78,7 +87,27 @@ footer section {
 }
 
 .social-redes div {
-  
-  width: 50px;
+  margin-left: 20px;
+  width: 40px;
   display: inline-block;
+}
+
+.Github-logo {
+    background-color: white;
+    border-radius: 50%;
+}
+
+.assignment {
+    padding-top: 50px;
+    scroll-padding-bottom: 0;
+    font-size: small;
+}
+
+.assignment a {
+    color: white;
+    
+}
+
+.assignment a:hover {
+    color: yellow;
 }
