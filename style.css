@@ -21,6 +21,7 @@ main {
 
 .description a {
     text-decoration: none;
+    color: black;
 }
 
 .description a:hover {
