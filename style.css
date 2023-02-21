@@ -1,89 +1,84 @@
-
 body {
-    background-color: rgb(5, 12, 61);
-    color: white;
-    text-align: center;
-    margin: 50px;
+  background-color: rgb(5, 12, 61);
+  color: white;
+  text-align: center;
+  margin: 50px;
 }
 
 .header-container div {
-    display: inline-block
+  display: inline-block;
 }
 
-.header-container ul li{
-    display: inline;
-    padding: 10px;
+.header-container ul li {
+  display: inline;
+  padding: 10px;
 }
 
 .index {
-    margin-left: 100px;
+  margin-left: 100px;
 }
 
 .main-container img {
-    border-radius: 100px;
-    margin-right: 60px;
-    margin-left: 100px;
-    margin-bottom: 40px;
-    margin-top: 40px;
+  border-radius: 100px;
+  margin-right: 60px;
+  margin-left: 100px;
+  margin-top: 40px;
 }
 
 .image {
-    float: right;
-    padding: 1px black;
+  float: right;
+  padding: 1px black;
 }
 
 .main-container {
-    border-radius: 100px;
-    background-color: white;
-    text-align: center;
-    display: inline-block;
+  border-radius: 100px;
+  background-color: white;
+  text-align: center;
+  display: inline-block;
 }
 
 .main-container p {
-    text-shadow: black 0.01em 0.01em;
-    color: black;
-    text-align: justify;
-    border-radius: 100px;
-    margin-right: 60px;
-    margin-left: 100px;
-    margin-bottom: 40px;
-    margin-top: 130px;
+  text-shadow: black 0.01em 0.01em;
+  color: black;
+
+  border-radius: 100px;
+  margin-right: 60px;
+  margin-left: 100px;
+  margin-bottom: 40px;
+  margin-top: 130px;
 }
 
 .name p {
-    text-align: center;
+  text-align: center;
 }
 
 .habilitsList div {
-    color: black;
-    text-align: left;
-    margin-right: 60px;
-    margin-left: 100px;
-    margin-bottom: 40px;
-    margin-top: 0px;
+  color: black;
+  text-align: left;
+  margin-right: 60px;
+  margin-left: 100px;
+  margin-bottom: 40px;
+  margin-top: 0px;
 }
 
-.contactsubContainer div {
-    display: inline-block;
-    width: 50px;
-    
+footer {
+  margin: auto;
+  color: black;
+  bottom: 0;
 }
 
-.contactsubContainer {
-    text-align: center;
-    margin-right: 205px;
-}
-.contact div {
-    width: 50px;
-    display: inline-block;
+footer img {
+  width: 40px;
+  vertical-align: middle;
 }
 
-.logo {
-    width: 50px;
+footer section {
+  vertical-align: middle;
+  display: inline-block;
 }
 
-.conect {
-    color: black;
+.social-redes div {
+  
+  width: 50px;
+  display: inline-block;
 }
-
-
